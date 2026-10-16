@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="safescan_app_name">Meyar</string>
+    <color name="safescan_launcher_background">#143437</color>
+</resources>

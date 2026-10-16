@@ -1,0 +1,20 @@
+name: scan_safe
+description: Meyar visual product evidence and metadata research prototype.
+publish_to: 'none'
+version: 0.1.0+1
+environment:
+  sdk: ^3.13.5
+dependencies:
+  flutter:
+    sdk: flutter
+  mobile_scanner: ^7.4.2
+  http: ^1.6.0
+  image_picker: ^1.2.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/branding/meyar_icon.png
